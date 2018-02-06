@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.itextpdf.tool:xmlworker:5.5.10@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf.tool/xmlworker/5.5.10/4f9dd1936d1163639c08619631313e3ae4778e49/xmlworker-5.5.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf.tool/xmlworker/5.5.10/a14a5ebd9b1de2856d09b69e0372f848c0a46c0d/xmlworker-5.5.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
